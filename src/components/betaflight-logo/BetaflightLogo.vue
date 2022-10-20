@@ -42,7 +42,7 @@ export default {
 .logo {
   height: 70px;
   width: 240px;
-  background-image: url(../../images/light-wide-2.svg);
+  background-image: url(../../images/livedavidreaction.png);
   background-repeat: no-repeat;
   background-position: left center;
   background-size: contain;
